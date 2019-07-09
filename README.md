@@ -10,6 +10,7 @@ Refer to Screenshot.png to view visually.
 POINTS TO NOTE:
 list.xlsx was the list I used.
 jrexcom.png was my original certificate image.
+The above to must be in the same file as the one on which the MATLAB program is saved.
 Other images were generated when I ran the program certigen.m on MATLAB.
 
 You can adjust the code according to your requirements and all more lines incase or more columns
